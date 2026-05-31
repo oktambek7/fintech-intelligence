@@ -120,7 +120,8 @@ Two-page live dashboard connected directly to BigQuery:
 
 ## Dashboard Preview
 
-*(Add screenshots of your Power BI dashboard here)*
+*(![Transaction Overview](dashboard_page1.png)
+![Customer Intelligence](dashboard_page2.png)*
 
 ---
 
