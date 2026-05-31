@@ -1,0 +1,7 @@
+# .gitignore
+service_account.json
+__pycache__/
+*.pyc
+.env
+raw/
+processed/
