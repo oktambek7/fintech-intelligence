@@ -120,7 +120,7 @@ Two-page live dashboard connected directly to BigQuery:
 
 ## Dashboard Preview
 
-*(![Transaction Overview](dashboard_page1.png)
+*![Transaction Overview](dashboard_page1.png)
 ![Customer Intelligence](dashboard_page2.png)*
 
 ---
